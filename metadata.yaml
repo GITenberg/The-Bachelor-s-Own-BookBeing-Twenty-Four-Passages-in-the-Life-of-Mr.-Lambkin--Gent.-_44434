@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 44434-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44434#The-Bachelor-s-Own-BookBeing-Twenty-Four-Passages-in-the-Life-of-Mr.-Lambkin--Gent.-
 gutenberg_issued: '2013-12-15'
 gutenberg_type: Text
 identifiers:
